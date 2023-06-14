@@ -1,0 +1,7 @@
+C:\Users\leoyo\source\repos\AtividadeCafe\AtividadeCafe\bin\Debug\AtividadeCafe.exe.config
+C:\Users\leoyo\source\repos\AtividadeCafe\AtividadeCafe\bin\Debug\AtividadeCafe.exe
+C:\Users\leoyo\source\repos\AtividadeCafe\AtividadeCafe\bin\Debug\AtividadeCafe.pdb
+C:\Users\leoyo\source\repos\AtividadeCafe\AtividadeCafe\obj\Debug\AtividadeCafe.csproj.AssemblyReference.cache
+C:\Users\leoyo\source\repos\AtividadeCafe\AtividadeCafe\obj\Debug\AtividadeCafe.csproj.CoreCompileInputs.cache
+C:\Users\leoyo\source\repos\AtividadeCafe\AtividadeCafe\obj\Debug\AtividadeCafe.exe
+C:\Users\leoyo\source\repos\AtividadeCafe\AtividadeCafe\obj\Debug\AtividadeCafe.pdb
